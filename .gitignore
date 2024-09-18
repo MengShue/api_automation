@@ -1,0 +1,4 @@
+.idea
+testResults/*.html
+__pycache__/
+.env/
